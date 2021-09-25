@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hey, i'm 14 and you can contact me at -> Dain#1738
 
-<!--
-**RSBAC/RSBAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚡ Interests 
+- Malware Devlopment
+- Exploit Devlopment
+- Computers! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Languages i know / Learning 
+- Python 
+- Ruby 
+- HTML 
+- Golang [ Learning ]
