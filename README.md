@@ -1,4 +1,4 @@
-### Hey, i'm 14 and you can contact me at 
+### Hey, i'm 14 and my name is RID
 
 ## ⚡ Interests 
 - Malware Devlopment
