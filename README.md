@@ -1,4 +1,4 @@
-### Hey, i'm 14 and you can contact me at -> back#1738
+### Hey, i'm 14 and you can contact me at 
 
 ## ⚡ Interests 
 - Malware Devlopment
